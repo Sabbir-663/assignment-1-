@@ -16,6 +16,6 @@ It can be of any type. we wont get error for using any type.
 
 ### unknown-
 It can be also of any type. But de need to declare a type before using it.
-### never
+### never-
 This something that will never give any return. It is mosty used to catch error.
   
