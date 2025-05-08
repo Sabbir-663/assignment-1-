@@ -9,7 +9,7 @@
   
   iv.  we can also use type through union and intersection but not in inerface.
   
-## 2. Explain the difference between any, unknown, and never types in TypeScript.
+## 3. Explain the difference between any, unknown, and never types in TypeScript.
 
 ### any-
 It can be of any type. we wont get error for using any type.
