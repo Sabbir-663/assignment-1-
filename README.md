@@ -1,6 +1,6 @@
 # Blog Task
 
-##1. What are some differences between interfaces and types in TypeScript?
+## 1. What are some differences between interfaces and types in TypeScript?
   i.   interface uses extends to connect to other interfaces but types uses & to connect other types.
   ii.  we can change interface after declaration but types cant be changed once they are declared.
   iii. we can use type for tuple, simple type settings bt interface can be use only to declare object.
